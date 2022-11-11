@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For now this is mostly a placeholder for validating my <a rel="me" href="https://octodon.social/@nahumshalman">Mastodon</a> profile.
+For now this is mostly a placeholder for validating my <a rel="nofollow me" href="https://octodon.social/@nahumshalman">Mastodon</a> profile.
 
 <!--
 **nshalman/nshalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
