@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For now this is mostly a placeholder for validating my <a rel="nofollow me" href="https://octodon.social/@nahumshalman">Mastodon</a> profile.
+For now this is mostly a placeholder for validating my <a rel="nofollow me" href="https://hachyderm.io/@nahumshalman">Mastodon</a> profile.
 You might also be interested in my (sporadically updated) <a rel="nofollow me" href="https://blog.shalman.org">blog</a>.
 
 <!--
